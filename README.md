@@ -17,6 +17,6 @@ This serves as a **proof of concept** for blocking thread suspension (not detect
    - The loop then resumes all suspended threads within the target process.
 3. **Important**: Ensure that you update the program name in the DLL project to match your target program, or it will not work. Once updated, don't forget to modify the corresponding byte array.
 
-[Watch the suspension-blocking Demo](https://github.com/kaiiskirrrrr/suspension-blocking/initialization/2024-09-24%2017-27-50.mp4)
+[Watch the suspension-blocking Demo](https://github.com/kaiiskirrrrr/suspension-blocking/blob/27e76aaed8a9a970cd3d4b3e7d91c7275a10d485/initialization/2024-09-24%2017-27-50.mp4)
 
 I recommend using this as a base idea, and expanding and improving on it on your own. :)
