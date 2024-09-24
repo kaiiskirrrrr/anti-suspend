@@ -1,3 +1,5 @@
+# suspension-blocking
+
 this project will block debuggers from suspending your program and its threads, it does this by injecting a module into a windows process and from there resumes all ur threads in a loop.
 
 > **Note**: this solution is extremely powerful if you hide your logic correctly, if you just use lazy importer and skcrypt its not gonna do much, you need to properly hide randomize the logic to this. You should also implement a watchdog for the thread and CMD.
