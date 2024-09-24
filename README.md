@@ -18,9 +18,8 @@ This serves as a **proof of concept** for blocking thread suspension (not detect
 3. **Important**: Ensure that you update the program name in the DLL project to match your target program, or it will not work. Once updated, don't forget to modify the corresponding byte array.
 
 <video width="720" height="480" controls>
-  <source src="[https://github.com/your-username/your-repository/raw/main/assets/demo.mp4](https://github.com/kaiiskirrrrr/suspension-blocking/blob/main/2024-09-24%2017-27-50.mp4)" type="video/mp4">
+  <source src="https://github.com/kaiiskirrrrr/suspension-blocking/raw/main/2024-09-24%2017-27-50.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-
-I reccomend using this as a Base idea, and expanding and improving on it your own :)
+I recommend using this as a base idea, and expanding and improving on it on your own. :)
